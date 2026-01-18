@@ -8,6 +8,9 @@ data/unified_data.parquet
 data/umap_projections.parquet
 data/problem_scores.parquet
 
+# Generated visualizations
+viz/*.html
+
 # Python
 __pycache__/
 *.py[cod]
